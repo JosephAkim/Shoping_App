@@ -2,4 +2,7 @@
     <string name="app_name">Shoping App</string>
     <string name="rightAddress">The Right Address\nFor Shopping\nAnyday</string>
     <string name="qualityText">Buy the best quality products from us\nwe have the best of many varieties</string>
+    <string name="logInText">Let\'s Log in</string>
+    <string name="ifYouDontHaveAccount">Don\'t have an account? Register</string>
+    <string name="forgetPassword">forget password</string>
 </resources>
