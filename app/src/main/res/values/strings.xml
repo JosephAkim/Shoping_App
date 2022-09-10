@@ -5,4 +5,6 @@
     <string name="logInText">Let\'s Log in</string>
     <string name="ifYouDontHaveAccount">Don\'t have an account? Register</string>
     <string name="forgetPassword">forget password</string>
+    <string name="ifYouAlreadyHave">Do you have an account? log in</string>
+    <string name="RegisterText">Let\'s Register</string>
 </resources>
