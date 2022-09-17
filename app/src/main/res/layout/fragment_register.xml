@@ -44,7 +44,7 @@
             app:layout_constraintTop_toBottomOf="@id/tv_app_name" />
 
         <TextView
-            android:id="@+id/ifYouDont"
+            android:id="@+id/ifYouDo"
             style="@style/h2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -61,7 +61,7 @@
             android:layout_height="@dimen/editTextHeight"
             app:layout_constraintStart_toStartOf="@id/guidelineLoginLeft"
             app:layout_constraintEnd_toEndOf="@id/guidelineLoginRight"
-            app:layout_constraintTop_toBottomOf="@id/ifYouDont"
+            app:layout_constraintTop_toBottomOf="@id/ifYouDo"
             style="@style/editText"
             android:hint="FirstName"
             android:layout_marginTop="40dp"/>

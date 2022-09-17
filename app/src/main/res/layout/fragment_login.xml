@@ -122,7 +122,7 @@
             app:layout_constraintBottom_toBottomOf="@id/googleLogIn"
             app:layout_constraintEnd_toEndOf="@id/googleLogIn"/>
 
-        <androidx.appcompat.widget.AppCompatButton
+        <br.com.simplepass.loadingbutton.customViews.CircularProgressButton
             android:id="@+id/buttonLoginLogin"
             android:layout_width="0dp"
             android:layout_height="@dimen/medium_button_height"
@@ -131,7 +131,8 @@
             app:layout_constraintStart_toStartOf="@id/guidelineLoginLeft"
             app:layout_constraintEnd_toEndOf="@id/guidelineLoginRight"
             android:layout_marginTop="15dp"
-            android:text="Log in"/>
+            android:text="Log in"
+            app:spinning_bar_color="@color/white"/>
 
         <androidx.constraintlayout.widget.Guideline
             android:id="@+id/guidelineLoginLeft"
